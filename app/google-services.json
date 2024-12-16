@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081011208519",
+    "project_id": "myprecioustraditionalattires9",
+    "storage_bucket": "myprecioustraditionalattires9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081011208519:android:81456663d4baa208cacc62",
+        "android_client_info": {
+          "package_name": "com.example.myprecioustraditionalattires"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiWzghE3kmto72N6QpksJeyKfP6DKNdBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
